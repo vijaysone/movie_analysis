@@ -34,9 +34,9 @@ This project analyzes a dataset of top-rated movies and performs various tasks s
 
 __________________________________________________________________________________________________________________________________________
 
-## using Jupyter 
+## Using Jupyter 
 
-**run movie_any.ipynb file and also add same directory movies1.csv file**
+run movie_any.ipynb file and also add same directory movies1.csv file
 
 
 
